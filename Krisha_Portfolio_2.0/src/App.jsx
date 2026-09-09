@@ -111,7 +111,9 @@ if (isLoading) {
           </p>
           <div className="hero-buttons">
             <a href="#projects" className="btn primary">⚡ &nbsp;View Projects</a>
-            <a href="#contact" className="btn secondary">▣ &nbsp;Download Resume</a>
+            <a href="/Krisha_Resume.pdf" download className="btn secondary">
+  ▣ &nbsp;Download Resume
+</a>
           </div>
           <div className="socials">
             <a
