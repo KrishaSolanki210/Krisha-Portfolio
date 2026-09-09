@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+button,
+a {
+  font-family: inherit;
+}
+
+::selection {
+  background: #a855f7;
+  color: white;
+}
